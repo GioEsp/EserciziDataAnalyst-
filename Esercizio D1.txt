@@ -1,0 +1,18 @@
+Argomento di interesse: Pizza
+
+Mi piacerebbe derivare la tipologia di pizza, come l'origine
+
+Dataset strutturati:
+- https://www.italiadelight.it/tipi-di-pizza-quanti-ne-esistono/
+- http://parliamoitaliano.altervista.org/tipi-di-pizza/
+- https://www.ilgiornaledelcibo.it/tipi-di-pizza/
+
+Attributi:forma, metodo cottura, idratazione, tempo lievitazione, ingredienti fondamentali
+Identificativo: Napoletana, Romana, Fritta
+
+
+Dataset non strutturati:
+- https://www.google.com/search?q=pizza&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi1i6X2s_b8AhXDSUEAHcdDCgAQ_AUoAnoECAEQBA&biw=1366&bih=649&dpr=1
+- https://www.google.com/search?q=pizza+tipi&tbm=isch&ved=2ahUKEwjK5MyUtPb8AhVRlv0HHTDgBAUQ2-cCegQIABAA&oq=pizza+tipi&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQHjIECAAQHjIECAAQHjIECAAQHjoECAAQQzoLCAAQgAQQsQMQgwFQvAdY1AtggxFoAHAAeACAAXSIAdEDkgEDNC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=rXLbY4raC9Gs9u8PsMCTKA&bih=649&biw=1366
+ 
+Per questi due dataset non strutturati analizzerei visivamente per dedurre la tipologia
